@@ -3,10 +3,7 @@
   "homepage": "https://sotatek-duongdo.github.io/betu-tool/",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev -p 8000",
-    "generate": "nuxt generate",
-    "predeploy": "nuxt generate",
-    "deploy": "gh-pages -d dist -r https://sotatek-duongdo.github.io/betu-tool/"
+    "dev": "nuxt dev -p 8000"
   },
   "devDependencies": {
     "@pinia/nuxt": "^0.1.9",
