@@ -1,12 +1,12 @@
 {
   "private": true,
-  "homepage": "https://duongdv92.github.io/betu-tool/",
+  "homepage": "https://sotatek-duongdo.github.io/betu-tool/",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev -p 8000",
     "generate": "nuxt generate",
     "predeploy": "nuxt generate",
-    "deploy": "gh-pages -d dist -r https://github.com/sotatek-duongdo/betu-tool.git"
+    "deploy": "gh-pages -d dist -r https://sotatek-duongdo.github.io/betu-tool/"
   },
   "devDependencies": {
     "@pinia/nuxt": "^0.1.9",
