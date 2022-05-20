@@ -7,6 +7,6 @@ export default defineNuxtConfig({
   typescript: {},
   mode: 'static',
   router: {
-    base: '/your-github-repository-name/'
+    base: '/betu-tool/'
   }
 });
